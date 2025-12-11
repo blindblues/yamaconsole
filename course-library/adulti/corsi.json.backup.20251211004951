@@ -1,0 +1,14 @@
+{
+    "corsi": [
+        {
+            "id": "test",
+            "name": "Test Course",
+            "description": "Test",
+            "category": "adulti",
+            "instructors": "",
+            "schedule": []
+        }
+    ],
+    "lastUpdated": "2025-12-11T00:49:02+01:00",
+    "totalCourses": 1
+}

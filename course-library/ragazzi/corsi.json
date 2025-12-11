@@ -1,0 +1,144 @@
+{
+    "corsi": [
+        {
+            "id": "course_42e56b79",
+            "name": "MARTIAL KIDZ",
+            "description": "Questo indirizzo nasce con lo scopo di creare una base completa a 360 gradi dalla la crescita psicomotoria alla crescita sociale del bambino\/a nel modo completo possibile",
+            "category": "ragazzi",
+            "instructors": "Giulia",
+            "schedule": [
+                {
+                    "day": "Martedì",
+                    "time": "17:30 - 18:15",
+                    "startTime": "17:30",
+                    "endTime": "18:15"
+                },
+                {
+                    "day": "Giovedì",
+                    "time": "17:30 - 18:15",
+                    "startTime": "17:30",
+                    "endTime": "18:15"
+                }
+            ],
+            "level": "",
+            "duration": "",
+            "price": "",
+            "image": "img\/corsi\/ragazzi\/martialkidz.png"
+        },
+        {
+            "id": "course_5b6e7dd1",
+            "name": "MUAY THAI JUNIOR",
+            "description": "Corso base per bambini dalla prima alla quinta elementare. In questo corso vengono insegnati i principi base e le tecniche iniziali della Muay Thai",
+            "category": "ragazzi",
+            "instructors": "Tatiana \/ Elia",
+            "schedule": [
+                {
+                    "day": "Lunedì",
+                    "time": "17:30 - 18:20",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                },
+                {
+                    "day": "Venerdì",
+                    "time": "17:30 - 18:20",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ],
+            "level": "",
+            "duration": "",
+            "price": "",
+            "image": "img\/corsi\/ragazzi\/muaythaijunior.png"
+        },
+        {
+            "id": "course_4d81b6e8",
+            "name": "MUAY THAI YOUNG",
+            "description": "Il corso è adatto ai ragazzi che frequentano la Scuola Secondaria di primo grado",
+            "category": "ragazzi",
+            "instructors": "Tatiana \/ Elia",
+            "schedule": [
+                {
+                    "day": "Martedì",
+                    "time": "18:30 - 19:30",
+                    "startTime": "18:30",
+                    "endTime": "19:30"
+                },
+                {
+                    "day": "Giovedì",
+                    "time": "18:30 - 19:30",
+                    "startTime": "18:30",
+                    "endTime": "19:30"
+                }
+            ],
+            "level": "",
+            "duration": "",
+            "price": "",
+            "image": "img\/corsi\/ragazzi\/muaythaiyoung.png"
+        },
+        {
+            "id": "course_23bb5f8b",
+            "name": "BJJ JUNIOR",
+            "description": "Adatto per i bimbi dalla prima elementare",
+            "category": "ragazzi",
+            "instructors": "Matteo",
+            "schedule": [
+                {
+                    "day": "Lunedì",
+                    "time": "17:30 - 18:20",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                },
+                {
+                    "day": "Giovedì",
+                    "time": "17:30 - 18:20",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ],
+            "level": "",
+            "duration": "",
+            "price": "",
+            "image": "img\/corsi\/ragazzi\/bjjjunior.png"
+        },
+        {
+            "id": "course_1c59a022",
+            "name": "MUAY THAI TEEN",
+            "description": "Adatto per ragazzi dalle prima alla terza  superiore",
+            "category": "ragazzi",
+            "instructors": "Tatiana \/ Elia",
+            "schedule": [
+                {
+                    "day": "Martedì",
+                    "time": "19:45 - 20:45",
+                    "startTime": "19:45",
+                    "endTime": "20:45"
+                },
+                {
+                    "day": "Giovedì",
+                    "time": "19:45 - 20:45",
+                    "startTime": "19:45",
+                    "endTime": "20:45"
+                }
+            ],
+            "level": "",
+            "duration": "",
+            "price": "",
+            "image": "img\/corsi\/ragazzi\/muaythaiteen.png"
+        },
+        {
+            "id": "course_1765411455327_deo0fnahv",
+            "name": "ASDAS",
+            "description": "dfsdf",
+            "category": "ragazzi",
+            "instructors": "",
+            "schedule": [],
+            "level": "",
+            "duration": "",
+            "price": "",
+            "image": "img\/corsi\/ragazzi\/1765411455312_intestazionespotify.png",
+            "createdAt": "2025-12-11T00:04:15.327Z"
+        }
+    ],
+    "lastUpdated": "2025-12-11T01:04:15+01:00",
+    "totalCourses": 6
+}

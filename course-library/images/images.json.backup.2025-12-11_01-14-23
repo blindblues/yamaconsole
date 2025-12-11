@@ -1,0 +1,153 @@
+{
+    "images": {
+        "course_69681c39": {
+            "courseId": "course_69681c39",
+            "courseName": "TAKEMUSU AIKIDO",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/aikido.jpg",
+            "instructors": "Michel"
+        },
+        "course_33d940a7": {
+            "courseId": "course_33d940a7",
+            "courseName": "DAITO RYU AIKI JUJUTSU",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/jujutsu.jpg",
+            "instructors": "Pietro"
+        },
+        "course_120454": {
+            "courseId": "course_120454",
+            "courseName": "KARATE",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/karate.jpg",
+            "instructors": "Pietro"
+        },
+        "course_2598d188": {
+            "courseId": "course_2598d188",
+            "courseName": "MUAY THAI",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/muaythai.jpg",
+            "instructors": "Roberto \/ Andrea \/ Elia"
+        },
+        "course_28b7f1e": {
+            "courseId": "course_28b7f1e",
+            "courseName": "KICK BOXING   K1",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/kickboxe.jpg",
+            "instructors": "Roberto \/ Andrea \/ Elia"
+        },
+        "course_25ec33b8": {
+            "courseId": "course_25ec33b8",
+            "courseName": "WONDER WOMEN",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/wonderwomen.jpg",
+            "instructors": "Tatiana"
+        },
+        "course_1f970c49": {
+            "courseId": "course_1f970c49",
+            "courseName": "BOXE",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/boxe.jpg",
+            "instructors": "David"
+        },
+        "course_63fee78d": {
+            "courseId": "course_63fee78d",
+            "courseName": "KOMBAT TRAINING",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/kombattraining.jpg",
+            "instructors": "Tatiana"
+        },
+        "course_51aff05a": {
+            "courseId": "course_51aff05a",
+            "courseName": "BRAZILIAN JIUJITSU",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/brazilianjiujitsu.jpg",
+            "instructors": "Matteo"
+        },
+        "course_1fdf310c": {
+            "courseId": "course_1fdf310c",
+            "courseName": "MMA",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/mma.jpg",
+            "instructors": "Ermanno \/ Elia"
+        },
+        "course_42e56b79": {
+            "courseId": "course_42e56b79",
+            "courseName": "MARTIAL KIDZ",
+            "category": "ragazzi",
+            "imagePath": "img\/corsi\/ragazzi\/martialkidz.png",
+            "instructors": "Giulia"
+        },
+        "course_5b6e7dd1": {
+            "courseId": "course_5b6e7dd1",
+            "courseName": "MUAY THAI JUNIOR",
+            "category": "ragazzi",
+            "imagePath": "img\/corsi\/ragazzi\/muaythaijunior.png",
+            "instructors": "Tatiana \/ Elia"
+        },
+        "course_4d81b6e8": {
+            "courseId": "course_4d81b6e8",
+            "courseName": "MUAY THAI YOUNG",
+            "category": "ragazzi",
+            "imagePath": "img\/corsi\/ragazzi\/muaythaiyoung.png",
+            "instructors": "Tatiana \/ Elia"
+        },
+        "course_23bb5f8b": {
+            "courseId": "course_23bb5f8b",
+            "courseName": "BJJ JUNIOR",
+            "category": "ragazzi",
+            "imagePath": "img\/corsi\/ragazzi\/bjjjunior.png",
+            "instructors": "Matteo"
+        },
+        "course_1c59a022": {
+            "courseId": "course_1c59a022",
+            "courseName": "MUAY THAI TEEN",
+            "category": "ragazzi",
+            "imagePath": "img\/corsi\/ragazzi\/muaythaiteen.png",
+            "instructors": "Tatiana \/ Elia"
+        },
+        "course_1765410602102_fzqq2no0y": {
+            "courseId": "course_1765410602102_fzqq2no0y",
+            "courseName": "DASDAS",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/1765410602095_senza-titolo-1.png",
+            "instructors": ""
+        },
+        "course_1765410655246_v2rsnh159": {
+            "courseId": "course_1765410655246_v2rsnh159",
+            "courseName": "ASDA",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/1765410655239_soundcloudavatar.png",
+            "instructors": ""
+        },
+        "course_1765410734674_atxkmo9xo": {
+            "courseId": "course_1765410734674_atxkmo9xo",
+            "courseName": "ASDAS",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/1765410734667_unnamed_1_.jpg",
+            "instructors": ""
+        },
+        "course_1765410823196_a4tgv74xq": {
+            "courseId": "course_1765410823196_a4tgv74xq",
+            "courseName": "ASDA",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/1765410823187_logo_blue_y2k_yt.png",
+            "instructors": ""
+        },
+        "course_1765411577599_1vk8xk0b9": {
+            "courseId": "course_1765411577599_1vk8xk0b9",
+            "courseName": "DASDA",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/1765411577578_gemini_generated_image_ihw43kihw43kihw4.png",
+            "instructors": ""
+        },
+        "course_1765411718898_xjte0kya9": {
+            "courseId": "course_1765411718898_xjte0kya9",
+            "courseName": "ASDA",
+            "category": "adulti",
+            "imagePath": "img\/corsi\/adulti\/1765411718886_1.png",
+            "instructors": ""
+        }
+    },
+    "lastUpdated": "2025-12-11T00:08:38.919Z",
+    "totalImages": 21
+}
